@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Sleepless Nights",
+  "base_artist": "アルストロメリア",
+  "createdAt": "2026-02-11T07:38:25.706009Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sleepless Nights",
+      "artist": "King Diamond",
+      "has_synced": false,
+      "path": "select/01_Sleepless_Nights_King_Diamond.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sleepless Nights",
+      "artist": "King Diamond",
+      "has_synced": true,
+      "path": "select/02_Sleepless_Nights_King_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sleepless Nights (King Diamond)",
+      "artist": "King Diamond",
+      "has_synced": false,
+      "path": "select/03_Sleepless_Nights_(King_Diamond)_King_Diamond.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Hundred Sleepless Nights",
+      "artist": "Pierce the Veil",
+      "has_synced": true,
+      "path": "select/04_One_Hundred_Sleepless_Nights_Pierce_the_Veil.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sleepless Nights",
+      "artist": "17 Pictures",
+      "has_synced": false,
+      "path": "select/05_Sleepless_Nights_17_Pictures.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sleepless Nights",
+      "artist": "Memphis May Fire",
+      "has_synced": true,
+      "path": "select/06_Sleepless_Nights_Memphis_May_Fire.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sleepless Nights",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/07_Sleepless_Nights_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sleepless Nights (2006 Remastered)",
+      "artist": "The Everly Brothers",
+      "has_synced": false,
+      "path": "select/08_Sleepless_Nights_(2006_Remastered)_The_Everly_Brothers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sleepless Nights",
+      "artist": "Smokey Robinson",
+      "has_synced": false,
+      "path": "select/09_Sleepless_Nights_Smokey_Robinson.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sleepless Nights",
+      "artist": "Fury Weekend feat. PRIZM",
+      "has_synced": false,
+      "path": "select/10_Sleepless_Nights_Fury_Weekend_feat._PRIZM.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sleepless Nights",
+      "artist": "Fury Weekend/PRIZM",
+      "has_synced": false,
+      "path": "select/11_Sleepless_Nights_Fury_Weekend_PRIZM.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sleepless Nights",
+      "artist": "Dream Drop",
+      "has_synced": true,
+      "path": "select/12_Sleepless_Nights_Dream_Drop.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sleepless Nights",
+      "artist": "Dream Drop",
+      "has_synced": true,
+      "path": "select/13_Sleepless_Nights_Dream_Drop.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sleepless Nights",
+      "artist": "Xciter feat. George Lynch",
+      "has_synced": false,
+      "path": "select/14_Sleepless_Nights_Xciter_feat._George_Lynch.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sleepless Nights",
+      "artist": "Xciter, George Lynch",
+      "has_synced": false,
+      "path": "select/15_Sleepless_Nights_Xciter,_George_Lynch.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sleepless Nights",
+      "artist": "アルストロメリア",
+      "has_synced": false,
+      "path": "select/pl_01_Sleepless_Nights_アルストロメリア.txt"
+    }
+  ]
+}
